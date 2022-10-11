@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\App.xaml
-2-359040340
+7-493231060
 
-9-11036940
+12646789062
 194-1103864946
-View\RegistrationWindow.xaml;View\UsersWindow.xaml;
+Assets\ResourceDictionaries\ColorDictionary.xaml;Assets\ResourceDictionaries\StyleDictionary.xaml;View\DashboardWindow.xaml;View\Pages\AdminsPage.xaml;View\Pages\ClientsPage.xaml;View\Pages\ManagersPage.xaml;View\RegistrationWindow.xaml;
 
 False
 

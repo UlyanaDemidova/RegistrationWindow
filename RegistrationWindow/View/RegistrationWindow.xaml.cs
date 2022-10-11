@@ -22,7 +22,7 @@ namespace RegistrationWindow
 
                 if (UserParser.Parse("users3.txt").FirstOrDefault(u => u.Login.Equals(tbLogin.Text) && u.Password.Equals(tbPassword.Text)).Role.Equals("Admin"))
                 {
-                    new UsersWindow().Show();
+                    new DashboardWindow().Show();
                     Close();
                 }
                 if (UserParser.Parse("users3.txt").FirstOrDefault(u => u.Login.Equals(tbLogin.Text) && u.Password.Equals(tbPassword.Text)).Role.Equals("Manager"))

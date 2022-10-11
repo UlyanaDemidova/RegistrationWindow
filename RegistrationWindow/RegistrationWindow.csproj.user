@@ -7,12 +7,36 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="View\UsersWindow.xaml.cs">
+    <Compile Update="View\Pages\ManagersPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\ClientsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\AdminsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\DashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="View\UsersWindow.xaml">
+    <Page Update="Assets\ResourceDictionaries\ColorDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ResourceDictionaries\StyleDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\ManagersPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\ClientsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\AdminsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\DashboardWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="View\RegistrationWindow.xaml">

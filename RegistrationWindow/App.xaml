@@ -4,5 +4,10 @@
              xmlns:local="clr-namespace:RegistrationWindow"
              StartupUri="View/RegistrationWindow.xaml">
     <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Assets/ResourceDictionaries/StyleDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

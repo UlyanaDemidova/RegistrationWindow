@@ -1,10 +1,7 @@
 ﻿using RegistrationWindow.Core;
 using RegistrationWindow.Model;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RegistrationWindow
 {
@@ -21,6 +18,14 @@ namespace RegistrationWindow
                 return true;
 
             return false;
+        }
+        public static IEnumerable<User> SortByRole(IEnumerable<User> users,string role)
+        {
+            foreach (User user in users.Where(u=> u.Role.Equals(role)))
+            {
+                yield return user;
+            }
+
         }
     }
 }

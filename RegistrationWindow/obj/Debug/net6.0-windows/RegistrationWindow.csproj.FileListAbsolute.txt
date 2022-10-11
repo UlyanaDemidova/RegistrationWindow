@@ -28,12 +28,10 @@ C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\Registr
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\bin\Debug\net6.0-windows\RegistrationWindow.pdb
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\RegistrationWindow.csproj.AssemblyReference.cache
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
-C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\UsersWindow.g.cs
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\RegistrationWindow_MarkupCompile.cache
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\RegistrationWindow_MarkupCompile.lref
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
-C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\UsersWindow.baml
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\RegistrationWindow.g.resources
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\RegistrationWindow.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\RegistrationWindow.AssemblyInfoInputs.cache
@@ -44,3 +42,14 @@ C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\Registr
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\RegistrationWindow.pdb
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\RegistrationWindow.genruntimeconfig.cache
 C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\ref\RegistrationWindow.dll
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\Assets\ResourceDictionaries\ColorDictionary.baml
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\Assets\ResourceDictionaries\StyleDictionary.baml
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\Pages\AdminsPage.g.cs
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\Pages\ClientsPage.g.cs
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\Pages\ManagersPage.g.cs
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\Pages\AdminsPage.baml
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\Pages\ClientsPage.baml
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\Pages\ManagersPage.baml
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\DashboardWindow.g.cs
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\App.baml
+C:\Users\udemi\Downloads\RegistrationWindow-main\RegistrationWindow-main\RegistrationWindow\obj\Debug\net6.0-windows\View\DashboardWindow.baml

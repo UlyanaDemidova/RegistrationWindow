@@ -12,19 +12,20 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace RegistrationWindow
+namespace RegistrationWindow.View.Pages
 {
     /// <summary>
-    /// Interaction logic for UsersWindow.xaml
+    /// Логика взаимодействия для Page1.xaml
     /// </summary>
-    public partial class UsersWindow : Window
+    public partial class ManagersPage : Page
     {
-        public UsersWindow()
+        public ManagersPage()
         {
             InitializeComponent();
-            dgUser.ItemsSource = UserParser.Parse("users3.txt");
+            dgManagers.ItemsSource = UserValidator.SortByRole(UserParser.Parse("users3.txt"), "Manager");
         }
     }
 }
